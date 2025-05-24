@@ -1,0 +1,1 @@
+[Key.cmd][Key.caps_lock][Key.caps_lock][Key.caps_lock][Key.caps_lock][Key.caps_lock][Key.caps_lock][Key.caps_lock][Key.caps_lock][Key.caps_lock][Key.shift]R[Key.space][Key.space][Key.space][Key.space]hello[Key.space]hello[Key.space]hello[Key.space]
